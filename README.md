@@ -1,2 +1,2 @@
 # show_ip
-simple cloudflare page to show your ip
+simple cloudflare workerto show your ip
