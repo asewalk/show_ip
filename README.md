@@ -1,2 +1,2 @@
 # show_ip
-simple cloudflare workerto show your ip
+simple cloudflare worker to show visitor's ip
